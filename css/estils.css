@@ -97,7 +97,9 @@ article img {
   flex:1;
   padding: 2vw;
 }
-
+.perfil img{
+  width: 50vw;
+}
 /* Footer */
 footer {
   background-color:  #012538ff;
